@@ -1,0 +1,19 @@
+{
+  "name": "stuuky-api",
+  "version": "1.0.0",
+  "description": "This is API for Stuuky. We used TypeScript, Fastify, JWT and Prisma.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts": "^0.2.2",
+    "tsc": "^2.0.4",
+    "tsx": "^3.12.7"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
