@@ -7,4 +7,4 @@
 - Fastify
 - Prisma
 - GraphQL
-- MySQL
+- SQLite
