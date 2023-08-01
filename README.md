@@ -1,3 +1,10 @@
 # The API documentation
 
-This is API for Stuuky. We used TypeScript, Fastify, JWT and Prisma. 
+## Technologies
+
+- Typescript
+- Node.js
+- Fastify
+- Prisma
+- GraphQL
+- MySQL
